@@ -3,7 +3,7 @@
 
 ### 👋 Hi there
 - 🌱 I’m currently learning Python as a Computer Science student at the University of Oregon.
-- 📫 Website: <a href="https://www.bdeweesevans.com" target="_blank" rel="noopener noreferrer">My Website</a>
+- 📫 Website: <a href="https://www.bdeweesevans.com" target="_blank" rel="noopener noreferrer">www.bdeweesevans.com</a>
 
 ### 📊 Data
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bdeweesevans&count_private=true&show_icons=true&theme=vue)
