@@ -6,8 +6,8 @@
 - 📫 Website: <a href="https://www.bdeweesevans.com" target="_blank" rel="noopener noreferrer">www.bdeweesevans.com</a>
 
 ### 🧰 Current Project: _10clicks.org_
-- Website: <a href="https://www.10clciks.org" target="_blank" rel="noopener noreferrer">www.10clicks.org</a>
-- Codebase: <a href="https://www.github.com/bdeweesevans/10clicks.org" target="_blank" rel="noopener noreferrer">www.10clicks.org</a>
+- Website: <a href="https://www.10cliks.org" target="_blank" rel="noopener noreferrer">www.10clicks.org</a>
+- Codebase: <a href="https://www.github.com/bdeweesevans/10clicks.org" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ### 📊 Data: _My Stats_
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bdeweesevans&count_private=true&show_icons=true&theme=vue)
