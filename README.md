@@ -1,7 +1,7 @@
 ![Views](https://komarev.com/ghpvc/?username=bdeweesevans&theme=vue)
 [![Github](https://img.shields.io/github/followers/bdeweesevans?label=Follow&style=social&theme=vue)](https://github.com/bdeweesevans)
 
-### 👋 __Hi there__: About me
+### 👋 <u>Hi there</u>: About me
 - 🌱 I’m currently learning Python as a Computer Science student at the University of Oregon.
 - 📫 Website: <a href="https://www.bdeweesevans.com" target="_blank" rel="noopener noreferrer">www.bdeweesevans.com</a>
 
