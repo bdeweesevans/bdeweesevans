@@ -6,7 +6,7 @@
 - 📫 Website: <a href="https://www.bdeweesevans.com" target="_blank" rel="noopener noreferrer">www.bdeweesevans.com</a>
 
 ### 🧰 Current Project: _10clicks.org_
-- Website: <a href="https://www.10cliks.org" target="_blank" rel="noopener noreferrer">www.10clicks.org</a>
+- Website: <a href="https://www.10clicks.org" target="_blank" rel="noopener noreferrer">www.10clicks.org</a>
 - Codebase: <a href="https://github.com/10clicks/10clicks.org" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ### 📊 Data: _My stats_
