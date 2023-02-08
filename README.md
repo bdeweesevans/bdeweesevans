@@ -7,7 +7,7 @@
 
 ### 🧰 Current Project: _10clicks.org_
 - Website: <a href="https://www.10cliks.org" target="_blank" rel="noopener noreferrer">www.10clicks.org</a>
-- Codebase: <a href="https://www.github.com/bdeweesevans/10clicks.org" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Codebase: <a href="https://github.com/10clicks/10clicks.org" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ### 📊 Data: _My stats_
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bdeweesevans&count_private=true&show_icons=true&theme=vue)
